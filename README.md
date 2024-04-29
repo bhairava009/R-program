@@ -1,5 +1,3 @@
-# R-program
-## These functions written in partial fulfillment of Coursera Data Science: R Programming 
 
 
 ## This function creates a special "matrix" object that can cache its inverse
